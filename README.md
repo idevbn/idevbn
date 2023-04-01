@@ -1,3 +1,7 @@
+```java
+System.out.println("Hello World!");
+```
+
 - 👋 Hi, I’m @idevbn
 - 👀 I’m interested in web development and secutiry engineering
 - 🌱 I’m currently learning Java, Python, Golang, SQL, etc.
